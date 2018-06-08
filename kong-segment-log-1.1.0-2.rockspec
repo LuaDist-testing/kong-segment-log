@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "kong-segment-log"
-version = "1.1.0-1"
+version = "1.1.0-2"
 -- LuaDist source
 source = {
-  tag = "1.1.0-1",
+  tag = "1.1.0-2",
   url = "git://github.com/LuaDist-testing/kong-segment-log.git"
 }
 -- Original source
 -- source = {
 --   url = "git://github.com/DigitalGlobe/kong-segment-log",
---   tag = "v1.1.0-1",
+--   tag = "v1.1.0-2",
 -- }
 description = {
   summary = "A Kong plugin that sends request logs to Segment track() API to track user activity.",
